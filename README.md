@@ -3,7 +3,8 @@ WORK IN PROGRESS LOL
 
 <p align="center">
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/99c602b3-1a53-4e21-9d41-d4a02e0a749f" />
-
+<img width="653" alt="image" src="https://github.com/user-attachments/assets/976bc9cc-e346-4583-b897-668e6704caa5" />
+  
 <div align="center">
 <table> 
 <tr>
@@ -23,5 +24,3 @@ WORK IN PROGRESS LOL
 
 
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/08d5b5d2-cc41-4d6c-97dc-4f0234c7bc01" />
-
-<img width="653" alt="image" src="https://github.com/user-attachments/assets/976bc9cc-e346-4583-b897-668e6704caa5" />
