@@ -13,7 +13,7 @@ WORK IN PROGRESS LOL
 </table>
 </div>
 
-<br>
+<br><br><br><br>
 
 <div align="center"> <details>
 <summary>${{\color{#C04C21}\normalsize{\textsf{i n f o}}}}$</summary>
