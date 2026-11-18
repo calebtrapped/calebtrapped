@@ -7,7 +7,7 @@ WORK IN PROGRESS LOL
 <div align="center">
 <table> 
 <tr>
-<td>test</td>
+<td>${{\color{#C04C21}\tiny{\textsf{you may call me leo or isaac !}}}}$</td>
 </tr>
 </table>
 </div>
