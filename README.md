@@ -26,7 +26,7 @@ WORK IN PROGRESS LOL
 
 <br>
 
-text
+> always found in the forsaken area sometimes.
 
 <br>
 
