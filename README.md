@@ -17,6 +17,7 @@ WORK IN PROGRESS LOL
 
 <div align="center"> <details>
 <summary>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/976bc9cc-e346-4583-b897-668e6704caa5" />
 <table> 
 <tr>
 <td>${{\color{#C04C21}\normalsize{\textsf{i⠀⠀n⠀⠀f⠀⠀o}}}}$</td>
@@ -35,4 +36,3 @@ text
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/23ae168c-d3a9-4e3d-9d1a-e0ef5172ce2f" />
 
 <p align="center">
-<img width="653" alt="image" src="https://github.com/user-attachments/assets/976bc9cc-e346-4583-b897-668e6704caa5" />
