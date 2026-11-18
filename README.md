@@ -15,6 +15,14 @@ WORK IN PROGRESS LOL
 
 <br>
 
+<div align="center"> <details>
+<summary>${{\color{#C04C21}\normalsize{\textsf{i n f o}}}}$</summary>
+
+test
+
+</details>
+
+<br><br>
 
 <img width="686" alt="image" src="https://github.com/user-attachments/assets/a45d1152-df8d-414c-9816-d898a674c065" />
 
