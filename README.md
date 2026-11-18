@@ -56,22 +56,19 @@ WORK IN PROGRESS LOL
 
 <br>
 
-> TAKE ME SERIOUSLY IF I SAY IM NOT DOING REALLY WELL :(
+> if i say that something you are doing to me makes me feel uncomfortable please stop :(
 > 
-> IM REALLY LOW TEMPERED THIS MONTH BE CAREFUL OF WHAT YOU SAY.
+> really short tempered this month
 > 
-> RAPID MOOD SWINGS !!!
->
-> I OVERTHINK A LOT EVERY DAY.
+> i have rapid mood swings <br>
+> and maladaptive perfectionism, please be aware.
 > 
-> IM SORRY IF I SOUND RUDE, I DONT MEAN IT.
-> 
-> PLEASE SHOW CARE, MY PARENTS NEVER GAVE ME ENOUGH CARE :(
+> i apologize if i sound rude, i do not mean it at all
 
-<br>
+<br><br>
 
 </details>
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/23ae168c-d3a9-4e3d-9d1a-e0ef5172ce2f" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/23ae168c-d3a9-4e3d-9d1a-e0ef5172ce2f" />
 
 <p align="center">
