@@ -35,7 +35,7 @@ WORK IN PROGRESS LOL
 
 <br><br>
 
-<img width="686" alt="image" src="https://github.com/user-attachments/assets/a45d1152-df8d-414c-9816-d898a674c065" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a45d1152-df8d-414c-9816-d898a674c065" />
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/23ae168c-d3a9-4e3d-9d1a-e0ef5172ce2f" />
 
