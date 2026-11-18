@@ -16,9 +16,15 @@ WORK IN PROGRESS LOL
 <br><br><br><br>
 
 <div align="center"> <details>
-<summary>${{\color{#C04C21}\normalsize{\textsf{i⠀⠀n⠀⠀f⠀⠀o}}}}$</summary>
+<summary>
+<table> 
+<tr>
+<td>${{\color{#C04C21}\normalsize{\textsf{i⠀⠀n⠀⠀f⠀⠀o}}}}$</td>
+</tr>
+</table>
+</summary>
 
-test
+text
 
 </details>
 
