@@ -14,9 +14,10 @@ WORK IN PROGRESS LOL
 
 <br><br><br><br>
 
+<p align="center">
+<pictures><img width="200" alt="image" src="https://github.com/user-attachments/assets/976bc9cc-e346-4583-b897-668e6704caa5" /></pictures>
 <div align="center"> <details>
 <summary>
-<pictures><img width="200" alt="image" src="https://github.com/user-attachments/assets/976bc9cc-e346-4583-b897-668e6704caa5" /></pictures>
 <table> 
 <tr> 
 <td>${{\color{#C04C21}\normalsize{\textsf{i⠀⠀n⠀⠀f⠀⠀o}}}}$</td> 
