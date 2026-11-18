@@ -16,7 +16,7 @@ WORK IN PROGRESS LOL
 <br><br><br><br>
 
 <div align="center"> <details>
-<summary>${{\color{#C04C21}\normalsize{\textsf{i n f o}}}}$</summary>
+<summary>${{\color{#C04C21}\normalsize{\textsf{i⠀⠀n⠀⠀f⠀⠀o}}}}$</summary>
 
 test
 
