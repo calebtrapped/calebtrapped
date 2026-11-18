@@ -12,6 +12,16 @@ WORK IN PROGRESS LOL
 </table>
 </div>
 
+<br>
+
+<div align="center">
+<table> 
+<tr>
+<td>${{\color{#C04C21}\normalsize{\textsf{he/him, prince/princeself, cor/corpse/corpself.}}}}$</td>
+</tr>
+</table>
+</div>
+
 <br><br><br><br>
 
 <p align="center">
