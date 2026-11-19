@@ -7,7 +7,7 @@ WORK IN PROGRESS LOL
 <div align="center">
 <table> 
 <tr>
-<td>${{\color{#C04C21}\normalsize{\textsf{you may call me leo or isaac !}}}}$</td>
+<td>${{\color{#C04C21}\normalsize{\textsf{you may call me leo or scott}}}}$</td>
 </tr>
 </table>
 </div>
@@ -17,7 +17,7 @@ WORK IN PROGRESS LOL
 <div align="center">
 <table> 
 <tr>
-<td>${{\color{#C04C21}\normalsize{\textsf{he/him, prince/princeself, cor/corpse/corpself.}}}}$</td>
+<td>${{\color{#C04C21}\normalsize{\textsf{he/him, cor/corpse/corpself, spec/specter/specterself, prince/princeself.}}}}$</td>
 </tr>
 </table>
 </div>
